@@ -1,0 +1,12 @@
+C:\Users\TTN\source\repos\SuperMarket-Management\CoreBusiness\bin\Debug\net5.0\CoreBusiness.deps.json
+C:\Users\TTN\source\repos\SuperMarket-Management\CoreBusiness\bin\Debug\net5.0\CoreBusiness.dll
+C:\Users\TTN\source\repos\SuperMarket-Management\CoreBusiness\bin\Debug\net5.0\ref\CoreBusiness.dll
+C:\Users\TTN\source\repos\SuperMarket-Management\CoreBusiness\bin\Debug\net5.0\CoreBusiness.pdb
+C:\Users\TTN\source\repos\SuperMarket-Management\CoreBusiness\obj\Debug\net5.0\CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TTN\source\repos\SuperMarket-Management\CoreBusiness\obj\Debug\net5.0\CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\TTN\source\repos\SuperMarket-Management\CoreBusiness\obj\Debug\net5.0\CoreBusiness.AssemblyInfo.cs
+C:\Users\TTN\source\repos\SuperMarket-Management\CoreBusiness\obj\Debug\net5.0\CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\TTN\source\repos\SuperMarket-Management\CoreBusiness\obj\Debug\net5.0\CoreBusiness.dll
+C:\Users\TTN\source\repos\SuperMarket-Management\CoreBusiness\obj\Debug\net5.0\ref\CoreBusiness.dll
+C:\Users\TTN\source\repos\SuperMarket-Management\CoreBusiness\obj\Debug\net5.0\CoreBusiness.pdb
+C:\Users\TTN\source\repos\SuperMarket-Management\CoreBusiness\obj\Debug\net5.0\CoreBusiness.csprojAssemblyReference.cache
